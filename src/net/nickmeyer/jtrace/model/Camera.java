@@ -6,5 +6,6 @@ package net.nickmeyer.jtrace.model;
  *
  */
 public interface Camera {
-
+	
+	Scene draw();
 }
